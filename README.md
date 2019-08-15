@@ -1,2 +1,2 @@
 # sample-form
-html, css signup form
+html, css signup form with animation.
